@@ -1,0 +1,225 @@
+It is week #1.
+
+Here is the weather forecast:
+
+It is clear and calm this week.
+
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+4
+
+
+
+Your colony now has a wind and solar farm!
+
+
+
+There are 9 weeks remaining.
+
+The robots have 2 builds remaining.
+
+
+
+It is week #2.
+
+Here is the weather forecast:
+
+A wind storm is expected this week.
+
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+3
+
+
+
+Your colony now has a charge station!
+
+
+
+There are 8 weeks remaining.
+
+The robots have 1 builds remaining.
+
+
+
+It is week #3.
+
+Here is the weather forecast:
+
+A solar flare is expected this week.
+
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+1
+
+
+
+Warning! Habitats require hydroponic farms to produce food.
+
+
+Your colony now has a habitat!
+
+
+
+There are 7 weeks remaining.
+
+The robots have 0 builds remaining.
+
+
+
+It is week #4.
+
+Here is the weather forecast:
+
+A wind storm is expected this week.
+
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+6
+
+
+
+Your robots spend the week rechargning!
+
+
+
+There are 6 weeks remaining.
+The robots have 3 builds remaining.
+
+
+
+It is week #5.
+
+Here is the weather forecast:
+
+It is clear and calm this week.
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+2
+
+
+
+Warning! Hydroponic farms require water pipes to function.
+
+
+Your colony now has a hydroponc farm!
+
+
+
+There are 5 weeks remaining.
+
+The robots have 2 builds remaining.
+
+
+
+It is week #6.
+
+Here is the weather forecast:
+
+A wind storm is expected this week.
+
+
+
+What should the robots complete this week?
+
+1 - Build Habitats
+
+2 - Build Hydroponic Farms
+
+3 - Build Re-charging Stations
+
+4 - Build Solar and Wind Farms
+
+5 - Build Water Pipes
+
+6 - Recharge Robots
+
+7 - Do Nothing
+
+5
+
+
+
+Your colony now has water pipes!
+
+
+Your colony is complete and ready for the next stage of the mission!

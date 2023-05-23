@@ -1,0 +1,17 @@
+What is the name of the file?
+
+robots2.txt
+
+
+
+Attribute	Best Option	Best Value
+
+Cost		11		179.00
+
+Efficiency	6		5.00
+
+Battery		6		1327.00
+
+
+
+Robot 6 has the best rating in 2 or more attributes!

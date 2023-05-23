@@ -1,0 +1,126 @@
+For the start of each week, print:
+
+It is week #X.
+
+Where X is the current week number.
+
+-----------------------------------------------------------
+
+For the menu, print:
+
+What should the robots complete this week?
+1 - Build Habitats
+2 - Build Hydroponic Farms
+3 - Build Re-charging Stations
+4 - Build Solar and Wind Farms
+5 - Build Water Pipes
+6 - Recharge Robots
+7 - Do Nothing
+
+-----------------------------------------------------------
+
+Based on the flags for build habitat function, print one or more of the following:
+
+A habitat has already been built!
+
+The robots do not have enough charge to build a habitat.
+
+Habitats cannot be built during a meteor shower!
+
+Habitats cannot be built during a wind storm!
+
+Warning! Habitats require hydroponic farms to produce food.
+
+Warning! Habitats require wind and solar farms to produce electricity.
+
+Your colony now has a habitat!
+
+-----------------------------------------------------------
+
+Based on the flags for build hydrofarm function, print one or more of the following:
+
+A hydroponic farm has already been built!
+
+The robots do not have enough charge to build a hydroponic farm.
+
+Hydroponic farms cannot be built during a meteor shower!
+
+Hydroponic farms cannot be built during a wind storm!
+
+Warning! Hydroponic farms require water pipes to function.
+
+Warning! Hydroponic farms require wind and solar farms to function.
+
+Your colony now has a hydroponic farm!
+
+-----------------------------------------------------------
+
+Based on the flags for build charge station function, print one or more of the following:
+
+A charge station has already been built!
+
+The robots do not have enough charge to build a charge station.
+
+Charge stations cannot be built during a meteor shower!
+
+Warning! Charge stations require wind and solar farms to function.
+
+Your colony now has a charge station!
+
+-----------------------------------------------------------
+
+Based on the flags for build electric farm function, print one of the following:
+
+A wind and solar farm has already been built!
+
+The robots do not have enough charge to build a wind and solar farm.
+
+Wind and solar farms cannot be built during a meteor shower!
+
+Wind and solar farm cannot be built during a wind storm!
+
+Wind and solar farms cannot be built during a solar flare!
+
+Your colony now has a wind and solar farm!
+
+-----------------------------------------------------------
+
+Based on the flags for build water pipes function, print one of the following:
+
+Water pipes have already been built!
+
+The robots do not have enough charge to build water pipes.
+
+Your colony now has water pipes!
+
+-----------------------------------------------------------
+
+Based on the flags for the recharge function, print one or more of the following:
+
+Your robots spend the week recharging!
+
+The colony does not have a wind and solar farm.
+Robots cannot charge without electricity.
+
+Robots cannot charge without a charge station.
+
+-----------------------------------------------------------
+
+At the end of each week, print:
+
+There are X weeks remaining.
+The robots have Y builds remaining.
+
+Where X is the number of weeks remaining and Y is the number of builds remaining.
+
+-----------------------------------------------------------
+
+For the final printout, print:
+
+Your colony is complete and ready for the next stage of the mission!
+
+if the colony is complete and:
+
+We cannot risk sending humans to an incomplete colony.
+
+if the colony is not complete.

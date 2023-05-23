@@ -1,0 +1,279 @@
+Your colony is complete and is now preparing for human arrivals.
+
+What is the name of your map for the surrounding area?
+mapinput.txt
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+4u      3u      5u
+2u      2u      3u
+1u      5u      4u
+
+Where would you like to send robot 1?
+1 2
+The robot has scanned this section and located some ice!
+4u      7I      5u
+2u      2u      3u
+1u      5u      4u
+
+Where would you like to send robot 2?
+1 1
+The robot has not found any ice.
+4u      7I      5u
+2u      2u      3u
+1u      5u      4u
+
+Where would you like to send robot 3?
+3 2
+The robot has scanned this section and located some ice!
+4u      7I      5u
+2u      2u      3u
+1u      3I      4u
+
+Where would you like to send robot 4?
+3 1
+The robot has scanned this section and located some ice!
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+4u      7I      5u
+2u      2u      3u
+5I      3I      4u
+
+Where would you like to send robot 1?
+2 3
+The robot has scanned this section and located some ice!
+4u      7I      5u
+2u      2u      8I
+5I      3I      4u
+
+Where would you like to send robot 2?
+2 2
+The robot has scanned this section and located some ice!
+4u      7I      5u
+2u      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 3?
+1 3
+The robot has scanned this section and located some ice!
+4u      7I      10I
+2u      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 4?
+1 2
+The robot takes some of the ice back to the storage facility.
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+4u      4I      10I
+2u      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 1?
+2 1
+The robot has scanned this section and located some ice!
+4u      4I      10I
+5I      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 2?
+1 3
+The robot takes some of the ice back to the storage facility.
+4u      4I      5I
+5I      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 3?
+1 1
+The robot has scanned this section and located some ice!
+2I      4I      5I
+5I      4I      8I
+5I      3I      4u
+
+Where would you like to send robot 4?
+3 2
+The robot takes all of the ice back to the storage facility!
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+2I      4I      5I
+5I      4I      8I
+5I      -       4u
+
+Where would you like to send robot 1?
+1 1
+The robot takes some of the ice back to the storage facility.
+1I      4I      5I
+5I      4I      8I
+5I      -       4u
+
+Where would you like to send robot 2?
+1 3
+The robot takes all of the ice back to the storage facility!
+1I      4I      -
+5I      4I      8I
+5I      -       4u
+
+Where would you like to send robot 3?
+3 3
+The robot has scanned this section and located some ice!
+1I      4I      -
+5I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 4?
+1 1
+The robot takes all of the ice back to the storage facility!
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+-       4I      -
+5I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 1?
+1 2
+The robot takes some of the ice back to the storage facility.
+-       3I      -
+5I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 2?
+1 2
+The robot takes all of the ice back to the storage facility!
+-       -       -
+5I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 3?
+2 1
+The robot takes some of the ice back to the storage facility.
+-       -       -
+4I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 4?
+2 1
+The robot takes some of the ice back to the storage facility.
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+-       -       -
+1I      4I      8I
+5I      -       6I
+
+Where would you like to send robot 1?
+2 1
+The robot takes all of the ice back to the storage facility!
+-       -       -
+-       4I      8I
+5I      -       6I
+
+Where would you like to send robot 2?
+2 2
+The robot takes all of the ice back to the storage facility!
+-       -       -
+-       -       8I
+5I      -       6I
+
+Where would you like to send robot 3?
+2 3
+The robot takes some of the ice back to the storage facility.
+-       -       -
+-       -       7I
+5I      -       6I
+
+Where would you like to send robot 4?
+2 3
+The robot takes some of the ice back to the storage facility.
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+-       -       -
+-       -       4I
+5I      -       6I
+
+Where would you like to send robot 1?
+2 3
+The robot takes some of the ice back to the storage facility.
+-       -       -
+-       -       3I
+5I      -       6I
+
+Where would you like to send robot 2?
+2 3
+The robot takes all of the ice back to the storage facility!
+-       -       -
+-       -       -
+5I      -       6I
+
+Where would you like to send robot 3?
+3 1
+The robot takes some of the ice back to the storage facility.
+-       -       -
+-       -       -
+4I      -       6I
+
+Where would you like to send robot 4?
+3 1
+The robot takes some of the ice back to the storage facility.
+
+Robot   Range   Capacity
+1       3       1
+2       2       5
+3       5       1
+4       1       3
+
+-       -       -
+-       -       -
+1I      -       6I
+
+Where would you like to send robot 1?
+3 1
+The robot takes all of the ice back to the storage facility!
+-       -       -
+-       -       -
+-       -       6I
+
+Where would you like to send robot 2?
+3 3
+The robot takes some of the ice back to the storage facility.
+-       -       -
+-       -       -
+-       -       1I
+
+Where would you like to send robot 3?
+3 3
+The robot takes all of the ice back to the storage facility!
+
+All of the ice in the surrounding area has been moved to your colony storage facility!

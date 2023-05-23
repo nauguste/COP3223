@@ -1,0 +1,13 @@
+What is the name of the file?
+
+robots1.txt
+
+
+
+Attribute	Best Option	Best Value
+
+Cost		11		179.00
+
+Efficiency	6		5.00
+
+Battery		21		1232.00

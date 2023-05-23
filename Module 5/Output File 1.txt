@@ -1,0 +1,5 @@
+person 1 ran 3 miles.
+person 2 ran 7 miles.
+person 3 ran 2 miles.
+person 4 ran 8 miles.
+person 5 ran 15 miles.
